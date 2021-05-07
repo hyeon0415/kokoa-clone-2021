@@ -2,9 +2,11 @@
 @import "reset.css";
 @import "components/status-bar.css";
 @import "components/nav-bar2.css";
+@import "components/screen-header2.css";
 @import "screens/login.css";
 body {
   font-family: "Open Sans", sans-serif;
+  padding-top: 50px;
 }
 .status-bar {
   display: flex;
