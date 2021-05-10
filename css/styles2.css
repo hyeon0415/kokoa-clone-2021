@@ -4,8 +4,10 @@
 @import "components/nav-bar2.css";
 @import "components/screen-header2.css";
 @import "components/user-component2.css";
+@import "components/badge2.css";
 @import "screens/login.css";
 @import "screens/friends2.css";
+@import "screens/find2.css";
 body {
   font-family: "Open Sans", sans-serif;
   padding-top: 50px;

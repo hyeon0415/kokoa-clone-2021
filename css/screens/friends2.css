@@ -5,12 +5,13 @@
   background-color: #fafafa;
   font-size: 18px;
   margin-bottom: 10px;
+  margin-top: -15px;
 }
 #friends-display-link2 i {
   color: rgba(0, 0, 0, 0.3);
 }
 .friends-screen2 {
-  padding: 0px 25px;
+  padding: 0px 17px;
 }
 .friends-screen2__channel {
   margin-top: 25px;
