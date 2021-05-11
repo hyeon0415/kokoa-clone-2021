@@ -8,6 +8,7 @@
 @import "screens/login.css";
 @import "screens/friends2.css";
 @import "screens/find2.css";
+@import "screens/variable.css";
 body {
   font-family: "Open Sans", sans-serif;
   padding-top: 50px;
