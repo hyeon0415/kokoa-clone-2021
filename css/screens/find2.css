@@ -1,18 +1,3 @@
-.find2-icons {
-  display: flex;
-  justify-content: space-between;
-}
-.find2-icons__icon {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-.find2-icons__icon i {
-  font-size: 35px;
-}
-.find2-icons__icon span {
-  margin-top: 18px;
-}
 .Recommended-friends2 {
   border-top: var(--main-border);
   border-bottom: var(--main-border);
